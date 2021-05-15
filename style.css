@@ -3,7 +3,7 @@ background: rgb(232, 56, 255);
 }
 
 .fill{
-    background:rgb(248, 210, 248);
+    background-color: aqua;
     position: relative;
     height:150px;
     width:150px;
